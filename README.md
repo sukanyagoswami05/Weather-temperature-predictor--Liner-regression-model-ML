@@ -1,4 +1,4 @@
-# Weather-temperature-predictor--Liner-regression-model-ML
+# Weather-temperature-predictor--Linear-regression-model-ML
 📌 Project Description
 
 This project is a Machine Learning model that predicts weather temperature based on historical data using Linear Regression.
